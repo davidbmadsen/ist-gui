@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ist-gui/static/css/main.f4b27f53.chunk.css",
+    "main.js": "/ist-gui/static/js/main.2775c15f.chunk.js",
+    "main.js.map": "/ist-gui/static/js/main.2775c15f.chunk.js.map",
+    "runtime-main.js": "/ist-gui/static/js/runtime-main.caf2a9ea.js",
+    "runtime-main.js.map": "/ist-gui/static/js/runtime-main.caf2a9ea.js.map",
+    "static/js/2.cbaeac3a.chunk.js": "/ist-gui/static/js/2.cbaeac3a.chunk.js",
+    "static/js/2.cbaeac3a.chunk.js.map": "/ist-gui/static/js/2.cbaeac3a.chunk.js.map",
+    "static/js/3.bbf06830.chunk.js": "/ist-gui/static/js/3.bbf06830.chunk.js",
+    "static/js/3.bbf06830.chunk.js.map": "/ist-gui/static/js/3.bbf06830.chunk.js.map",
+    "index.html": "/ist-gui/index.html",
+    "static/css/main.f4b27f53.chunk.css.map": "/ist-gui/static/css/main.f4b27f53.chunk.css.map",
+    "static/js/2.cbaeac3a.chunk.js.LICENSE.txt": "/ist-gui/static/js/2.cbaeac3a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ist-gui/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf2a9ea.js",
+    "static/js/2.cbaeac3a.chunk.js",
+    "static/css/main.f4b27f53.chunk.css",
+    "static/js/main.2775c15f.chunk.js"
+  ]
+}
